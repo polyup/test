@@ -18,3 +18,16 @@
 
     $ git clone git://github.com/polyup/test.git
     $ git clone git://github.com/polyup/test1.git
+    
+## Add the codes
+    Hello World!
+    This is the code section.
+    
+# add the links
+    
+I get 10 times more traffic from [Google] [1] than from
+[Yahoo] [2] or [MSN] [3].
+
+  [1]: http://google.com/        "Google"
+  [2]: http://search.yahoo.com/  "Yahoo Search"
+  [3]: http://search.msn.com/    "MSN Search"
