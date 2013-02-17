@@ -17,3 +17,4 @@
 ²Ù×÷Ê¾Àý£º
 
     $ git clone git://github.com/polyup/test.git
+    $ git clone git://github.com/polyup/test1.git
